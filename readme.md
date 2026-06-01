@@ -1,4 +1,4 @@
-# 🧠 Focus Tracke
+# 🧠 Focus Tracker
 
 > **Real-time attention monitoring using facial landmark detection — no distractions allowed.**
 
